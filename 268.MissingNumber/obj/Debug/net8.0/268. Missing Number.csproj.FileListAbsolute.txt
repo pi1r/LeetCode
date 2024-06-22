@@ -1,0 +1,14 @@
+D:\c#\ЗАДАЧИ\268. Missing Number\268. Missing Number\bin\Debug\net8.0\268. Missing Number.exe
+D:\c#\ЗАДАЧИ\268. Missing Number\268. Missing Number\bin\Debug\net8.0\268. Missing Number.deps.json
+D:\c#\ЗАДАЧИ\268. Missing Number\268. Missing Number\bin\Debug\net8.0\268. Missing Number.runtimeconfig.json
+D:\c#\ЗАДАЧИ\268. Missing Number\268. Missing Number\bin\Debug\net8.0\268. Missing Number.dll
+D:\c#\ЗАДАЧИ\268. Missing Number\268. Missing Number\bin\Debug\net8.0\268. Missing Number.pdb
+D:\c#\ЗАДАЧИ\268. Missing Number\268. Missing Number\obj\Debug\net8.0\268. Missing Number.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\ЗАДАЧИ\268. Missing Number\268. Missing Number\obj\Debug\net8.0\268. Missing Number.AssemblyInfoInputs.cache
+D:\c#\ЗАДАЧИ\268. Missing Number\268. Missing Number\obj\Debug\net8.0\268. Missing Number.AssemblyInfo.cs
+D:\c#\ЗАДАЧИ\268. Missing Number\268. Missing Number\obj\Debug\net8.0\268. Missing Number.csproj.CoreCompileInputs.cache
+D:\c#\ЗАДАЧИ\268. Missing Number\268. Missing Number\obj\Debug\net8.0\268. Missing Number.dll
+D:\c#\ЗАДАЧИ\268. Missing Number\268. Missing Number\obj\Debug\net8.0\refint\268. Missing Number.dll
+D:\c#\ЗАДАЧИ\268. Missing Number\268. Missing Number\obj\Debug\net8.0\268. Missing Number.pdb
+D:\c#\ЗАДАЧИ\268. Missing Number\268. Missing Number\obj\Debug\net8.0\268. Missing Number.genruntimeconfig.cache
+D:\c#\ЗАДАЧИ\268. Missing Number\268. Missing Number\obj\Debug\net8.0\ref\268. Missing Number.dll
