@@ -1,0 +1,14 @@
+D:\c#\ЗАДАЧИ\283. Move Zeroes\283. Move Zeroes\bin\Debug\net8.0\283. Move Zeroes.exe
+D:\c#\ЗАДАЧИ\283. Move Zeroes\283. Move Zeroes\bin\Debug\net8.0\283. Move Zeroes.deps.json
+D:\c#\ЗАДАЧИ\283. Move Zeroes\283. Move Zeroes\bin\Debug\net8.0\283. Move Zeroes.runtimeconfig.json
+D:\c#\ЗАДАЧИ\283. Move Zeroes\283. Move Zeroes\bin\Debug\net8.0\283. Move Zeroes.dll
+D:\c#\ЗАДАЧИ\283. Move Zeroes\283. Move Zeroes\bin\Debug\net8.0\283. Move Zeroes.pdb
+D:\c#\ЗАДАЧИ\283. Move Zeroes\283. Move Zeroes\obj\Debug\net8.0\283. Move Zeroes.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\ЗАДАЧИ\283. Move Zeroes\283. Move Zeroes\obj\Debug\net8.0\283. Move Zeroes.AssemblyInfoInputs.cache
+D:\c#\ЗАДАЧИ\283. Move Zeroes\283. Move Zeroes\obj\Debug\net8.0\283. Move Zeroes.AssemblyInfo.cs
+D:\c#\ЗАДАЧИ\283. Move Zeroes\283. Move Zeroes\obj\Debug\net8.0\283. Move Zeroes.csproj.CoreCompileInputs.cache
+D:\c#\ЗАДАЧИ\283. Move Zeroes\283. Move Zeroes\obj\Debug\net8.0\283. Move Zeroes.dll
+D:\c#\ЗАДАЧИ\283. Move Zeroes\283. Move Zeroes\obj\Debug\net8.0\refint\283. Move Zeroes.dll
+D:\c#\ЗАДАЧИ\283. Move Zeroes\283. Move Zeroes\obj\Debug\net8.0\283. Move Zeroes.pdb
+D:\c#\ЗАДАЧИ\283. Move Zeroes\283. Move Zeroes\obj\Debug\net8.0\283. Move Zeroes.genruntimeconfig.cache
+D:\c#\ЗАДАЧИ\283. Move Zeroes\283. Move Zeroes\obj\Debug\net8.0\ref\283. Move Zeroes.dll
