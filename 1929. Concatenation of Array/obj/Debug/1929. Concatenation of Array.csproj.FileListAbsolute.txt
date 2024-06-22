@@ -1,0 +1,7 @@
+D:\c#\ЗАДАЧИ\1929. Concatenation of Array\1929. Concatenation of Array\bin\Debug\_1929.Concatenation_of_Array.exe.config
+D:\c#\ЗАДАЧИ\1929. Concatenation of Array\1929. Concatenation of Array\bin\Debug\_1929.Concatenation_of_Array.exe
+D:\c#\ЗАДАЧИ\1929. Concatenation of Array\1929. Concatenation of Array\bin\Debug\_1929.Concatenation_of_Array.pdb
+D:\c#\ЗАДАЧИ\1929. Concatenation of Array\1929. Concatenation of Array\obj\Debug\1929. Concatenation of Array.csproj.AssemblyReference.cache
+D:\c#\ЗАДАЧИ\1929. Concatenation of Array\1929. Concatenation of Array\obj\Debug\1929. Concatenation of Array.csproj.CoreCompileInputs.cache
+D:\c#\ЗАДАЧИ\1929. Concatenation of Array\1929. Concatenation of Array\obj\Debug\_1929.Concatenation_of_Array.exe
+D:\c#\ЗАДАЧИ\1929. Concatenation of Array\1929. Concatenation of Array\obj\Debug\_1929.Concatenation_of_Array.pdb
