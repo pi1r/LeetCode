@@ -1,0 +1,14 @@
+D:\c#\ЗАДАЧИ\2433. Find The Original Array of Prefix XOR\2433. Find The Original Array of Prefix XOR\obj\Debug\net8.0\2433. Find The Original Array of Prefix XOR.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\ЗАДАЧИ\2433. Find The Original Array of Prefix XOR\2433. Find The Original Array of Prefix XOR\obj\Debug\net8.0\2433. Find The Original Array of Prefix XOR.AssemblyInfoInputs.cache
+D:\c#\ЗАДАЧИ\2433. Find The Original Array of Prefix XOR\2433. Find The Original Array of Prefix XOR\obj\Debug\net8.0\2433. Find The Original Array of Prefix XOR.AssemblyInfo.cs
+D:\c#\ЗАДАЧИ\2433. Find The Original Array of Prefix XOR\2433. Find The Original Array of Prefix XOR\obj\Debug\net8.0\2433. Find The Original Array of Prefix XOR.csproj.CoreCompileInputs.cache
+D:\c#\ЗАДАЧИ\2433. Find The Original Array of Prefix XOR\2433. Find The Original Array of Prefix XOR\bin\Debug\net8.0\2433. Find The Original Array of Prefix XOR.exe
+D:\c#\ЗАДАЧИ\2433. Find The Original Array of Prefix XOR\2433. Find The Original Array of Prefix XOR\bin\Debug\net8.0\2433. Find The Original Array of Prefix XOR.deps.json
+D:\c#\ЗАДАЧИ\2433. Find The Original Array of Prefix XOR\2433. Find The Original Array of Prefix XOR\bin\Debug\net8.0\2433. Find The Original Array of Prefix XOR.runtimeconfig.json
+D:\c#\ЗАДАЧИ\2433. Find The Original Array of Prefix XOR\2433. Find The Original Array of Prefix XOR\bin\Debug\net8.0\2433. Find The Original Array of Prefix XOR.dll
+D:\c#\ЗАДАЧИ\2433. Find The Original Array of Prefix XOR\2433. Find The Original Array of Prefix XOR\bin\Debug\net8.0\2433. Find The Original Array of Prefix XOR.pdb
+D:\c#\ЗАДАЧИ\2433. Find The Original Array of Prefix XOR\2433. Find The Original Array of Prefix XOR\obj\Debug\net8.0\2433. Find The Original Array of Prefix XOR.dll
+D:\c#\ЗАДАЧИ\2433. Find The Original Array of Prefix XOR\2433. Find The Original Array of Prefix XOR\obj\Debug\net8.0\refint\2433. Find The Original Array of Prefix XOR.dll
+D:\c#\ЗАДАЧИ\2433. Find The Original Array of Prefix XOR\2433. Find The Original Array of Prefix XOR\obj\Debug\net8.0\2433. Find The Original Array of Prefix XOR.pdb
+D:\c#\ЗАДАЧИ\2433. Find The Original Array of Prefix XOR\2433. Find The Original Array of Prefix XOR\obj\Debug\net8.0\2433. Find The Original Array of Prefix XOR.genruntimeconfig.cache
+D:\c#\ЗАДАЧИ\2433. Find The Original Array of Prefix XOR\2433. Find The Original Array of Prefix XOR\obj\Debug\net8.0\ref\2433. Find The Original Array of Prefix XOR.dll

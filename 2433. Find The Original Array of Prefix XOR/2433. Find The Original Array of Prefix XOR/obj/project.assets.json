@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\c#\\LESSONS\\Minimum Add to Make Parentheses Valid\\Minimum Add to Make Parentheses Valid\\Minimum Add to Make Parentheses Valid.csproj",
-      "projectName": "Minimum Add to Make Parentheses Valid",
-      "projectPath": "D:\\c#\\LESSONS\\Minimum Add to Make Parentheses Valid\\Minimum Add to Make Parentheses Valid\\Minimum Add to Make Parentheses Valid.csproj",
+      "projectUniqueName": "D:\\c#\\ЗАДАЧИ\\2433. Find The Original Array of Prefix XOR\\2433. Find The Original Array of Prefix XOR\\2433. Find The Original Array of Prefix XOR.csproj",
+      "projectName": "2433. Find The Original Array of Prefix XOR",
+      "projectPath": "D:\\c#\\ЗАДАЧИ\\2433. Find The Original Array of Prefix XOR\\2433. Find The Original Array of Prefix XOR\\2433. Find The Original Array of Prefix XOR.csproj",
       "packagesPath": "C:\\Users\\Tonya\\.nuget\\packages\\",
-      "outputPath": "D:\\c#\\LESSONS\\Minimum Add to Make Parentheses Valid\\Minimum Add to Make Parentheses Valid\\obj\\",
+      "outputPath": "D:\\c#\\ЗАДАЧИ\\2433. Find The Original Array of Prefix XOR\\2433. Find The Original Array of Prefix XOR\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

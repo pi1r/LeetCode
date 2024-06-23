@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Minimum Add to Make Parentheses Valid")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("2433. Find The Original Array of Prefix XOR")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("Minimum Add to Make Parentheses Valid")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Minimum Add to Make Parentheses Valid")]
+[assembly: System.Reflection.AssemblyProductAttribute("2433. Find The Original Array of Prefix XOR")]
+[assembly: System.Reflection.AssemblyTitleAttribute("2433. Find The Original Array of Prefix XOR")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Создано классом WriteCodeFragment MSBuild.

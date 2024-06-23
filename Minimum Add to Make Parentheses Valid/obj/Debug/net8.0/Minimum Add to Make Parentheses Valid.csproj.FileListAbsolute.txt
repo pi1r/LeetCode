@@ -1,4 +1,0 @@
-D:\c#\LESSONS\Minimum Add to Make Parentheses Valid\Minimum Add to Make Parentheses Valid\obj\Debug\net8.0\Minimum Add to Make Parentheses Valid.GeneratedMSBuildEditorConfig.editorconfig
-D:\c#\LESSONS\Minimum Add to Make Parentheses Valid\Minimum Add to Make Parentheses Valid\obj\Debug\net8.0\Minimum Add to Make Parentheses Valid.AssemblyInfoInputs.cache
-D:\c#\LESSONS\Minimum Add to Make Parentheses Valid\Minimum Add to Make Parentheses Valid\obj\Debug\net8.0\Minimum Add to Make Parentheses Valid.AssemblyInfo.cs
-D:\c#\LESSONS\Minimum Add to Make Parentheses Valid\Minimum Add to Make Parentheses Valid\obj\Debug\net8.0\Minimum Add to Make Parentheses Valid.csproj.CoreCompileInputs.cache
