@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c#\\LESSONS\\Minimum Add to Make Parentheses Valid\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E514D907-8AF0-49F2-A5D9-B0216E731F28}|Minimum Add to Make Parentheses Valid\\Minimum Add to Make Parentheses Valid.csproj|d:\\c#\\lessons\\minimum add to make parentheses valid\\minimum add to make parentheses valid\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E514D907-8AF0-49F2-A5D9-B0216E731F28}|Minimum Add to Make Parentheses Valid\\Minimum Add to Make Parentheses Valid.csproj|solutionrelative:minimum add to make parentheses valid\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\c#\\LESSONS\\Minimum Add to Make Parentheses Valid\\Minimum Add to Make Parentheses Valid\\Program.cs",
+              "RelativeDocumentMoniker": "Minimum Add to Make Parentheses Valid\\Program.cs",
+              "ToolTip": "D:\\c#\\LESSONS\\Minimum Add to Make Parentheses Valid\\Minimum Add to Make Parentheses Valid\\Program.cs",
+              "RelativeToolTip": "Minimum Add to Make Parentheses Valid\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T16:09:03.157Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
