@@ -1,0 +1,7 @@
+D:\c#\3146. Permutation Difference between Two Strings\3146. Permutation Difference between Two Strings\bin\Debug\_3146.Permutation_Difference_between_Two_Strings.exe.config
+D:\c#\3146. Permutation Difference between Two Strings\3146. Permutation Difference between Two Strings\bin\Debug\_3146.Permutation_Difference_between_Two_Strings.exe
+D:\c#\3146. Permutation Difference between Two Strings\3146. Permutation Difference between Two Strings\bin\Debug\_3146.Permutation_Difference_between_Two_Strings.pdb
+D:\c#\3146. Permutation Difference between Two Strings\3146. Permutation Difference between Two Strings\obj\Debug\3146. Permutation Difference between Two Strings.csproj.AssemblyReference.cache
+D:\c#\3146. Permutation Difference between Two Strings\3146. Permutation Difference between Two Strings\obj\Debug\3146. Permutation Difference between Two Strings.csproj.CoreCompileInputs.cache
+D:\c#\3146. Permutation Difference between Two Strings\3146. Permutation Difference between Two Strings\obj\Debug\_3146.Permutation_Difference_between_Two_Strings.exe
+D:\c#\3146. Permutation Difference between Two Strings\3146. Permutation Difference between Two Strings\obj\Debug\_3146.Permutation_Difference_between_Two_Strings.pdb
