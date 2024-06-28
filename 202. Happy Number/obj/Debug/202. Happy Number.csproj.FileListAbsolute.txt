@@ -1,0 +1,7 @@
+D:\c#\ЗАДАЧИ\202. Happy Number\202. Happy Number\bin\Debug\_202.Happy_Number.exe.config
+D:\c#\ЗАДАЧИ\202. Happy Number\202. Happy Number\bin\Debug\_202.Happy_Number.exe
+D:\c#\ЗАДАЧИ\202. Happy Number\202. Happy Number\bin\Debug\_202.Happy_Number.pdb
+D:\c#\ЗАДАЧИ\202. Happy Number\202. Happy Number\obj\Debug\202. Happy Number.csproj.AssemblyReference.cache
+D:\c#\ЗАДАЧИ\202. Happy Number\202. Happy Number\obj\Debug\202. Happy Number.csproj.CoreCompileInputs.cache
+D:\c#\ЗАДАЧИ\202. Happy Number\202. Happy Number\obj\Debug\_202.Happy_Number.exe
+D:\c#\ЗАДАЧИ\202. Happy Number\202. Happy Number\obj\Debug\_202.Happy_Number.pdb
