@@ -1,0 +1,14 @@
+D:\c#\ЗАДАЧИ\14. Longest Common Prefix\14. Longest Common Prefix\bin\Debug\net8.0\14. Longest Common Prefix.exe
+D:\c#\ЗАДАЧИ\14. Longest Common Prefix\14. Longest Common Prefix\bin\Debug\net8.0\14. Longest Common Prefix.deps.json
+D:\c#\ЗАДАЧИ\14. Longest Common Prefix\14. Longest Common Prefix\bin\Debug\net8.0\14. Longest Common Prefix.runtimeconfig.json
+D:\c#\ЗАДАЧИ\14. Longest Common Prefix\14. Longest Common Prefix\bin\Debug\net8.0\14. Longest Common Prefix.dll
+D:\c#\ЗАДАЧИ\14. Longest Common Prefix\14. Longest Common Prefix\bin\Debug\net8.0\14. Longest Common Prefix.pdb
+D:\c#\ЗАДАЧИ\14. Longest Common Prefix\14. Longest Common Prefix\obj\Debug\net8.0\14. Longest Common Prefix.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\ЗАДАЧИ\14. Longest Common Prefix\14. Longest Common Prefix\obj\Debug\net8.0\14. Longest Common Prefix.AssemblyInfoInputs.cache
+D:\c#\ЗАДАЧИ\14. Longest Common Prefix\14. Longest Common Prefix\obj\Debug\net8.0\14. Longest Common Prefix.AssemblyInfo.cs
+D:\c#\ЗАДАЧИ\14. Longest Common Prefix\14. Longest Common Prefix\obj\Debug\net8.0\14. Longest Common Prefix.csproj.CoreCompileInputs.cache
+D:\c#\ЗАДАЧИ\14. Longest Common Prefix\14. Longest Common Prefix\obj\Debug\net8.0\14. Longest Common Prefix.dll
+D:\c#\ЗАДАЧИ\14. Longest Common Prefix\14. Longest Common Prefix\obj\Debug\net8.0\refint\14. Longest Common Prefix.dll
+D:\c#\ЗАДАЧИ\14. Longest Common Prefix\14. Longest Common Prefix\obj\Debug\net8.0\14. Longest Common Prefix.pdb
+D:\c#\ЗАДАЧИ\14. Longest Common Prefix\14. Longest Common Prefix\obj\Debug\net8.0\14. Longest Common Prefix.genruntimeconfig.cache
+D:\c#\ЗАДАЧИ\14. Longest Common Prefix\14. Longest Common Prefix\obj\Debug\net8.0\ref\14. Longest Common Prefix.dll
