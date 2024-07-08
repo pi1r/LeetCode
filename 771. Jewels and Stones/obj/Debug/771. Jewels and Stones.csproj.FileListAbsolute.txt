@@ -1,0 +1,7 @@
+D:\c#\ЗАДАЧИ\771. Jewels and Stones\771. Jewels and Stones\bin\Debug\_771.Jewels_and_Stones.exe.config
+D:\c#\ЗАДАЧИ\771. Jewels and Stones\771. Jewels and Stones\bin\Debug\_771.Jewels_and_Stones.exe
+D:\c#\ЗАДАЧИ\771. Jewels and Stones\771. Jewels and Stones\bin\Debug\_771.Jewels_and_Stones.pdb
+D:\c#\ЗАДАЧИ\771. Jewels and Stones\771. Jewels and Stones\obj\Debug\771. Jewels and Stones.csproj.AssemblyReference.cache
+D:\c#\ЗАДАЧИ\771. Jewels and Stones\771. Jewels and Stones\obj\Debug\771. Jewels and Stones.csproj.CoreCompileInputs.cache
+D:\c#\ЗАДАЧИ\771. Jewels and Stones\771. Jewels and Stones\obj\Debug\_771.Jewels_and_Stones.exe
+D:\c#\ЗАДАЧИ\771. Jewels and Stones\771. Jewels and Stones\obj\Debug\_771.Jewels_and_Stones.pdb
