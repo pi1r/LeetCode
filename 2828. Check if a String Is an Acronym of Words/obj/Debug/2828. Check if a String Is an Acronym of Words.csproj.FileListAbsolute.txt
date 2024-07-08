@@ -1,0 +1,7 @@
+D:\c#\ЗАДАЧИ\2828. Check if a String Is an Acronym of Words\2828. Check if a String Is an Acronym of Words\bin\Debug\_2828.Check_if_a_String_Is_an_Acronym_of_Words.exe.config
+D:\c#\ЗАДАЧИ\2828. Check if a String Is an Acronym of Words\2828. Check if a String Is an Acronym of Words\bin\Debug\_2828.Check_if_a_String_Is_an_Acronym_of_Words.exe
+D:\c#\ЗАДАЧИ\2828. Check if a String Is an Acronym of Words\2828. Check if a String Is an Acronym of Words\bin\Debug\_2828.Check_if_a_String_Is_an_Acronym_of_Words.pdb
+D:\c#\ЗАДАЧИ\2828. Check if a String Is an Acronym of Words\2828. Check if a String Is an Acronym of Words\obj\Debug\2828. Check if a String Is an Acronym of Words.csproj.AssemblyReference.cache
+D:\c#\ЗАДАЧИ\2828. Check if a String Is an Acronym of Words\2828. Check if a String Is an Acronym of Words\obj\Debug\2828. Check if a String Is an Acronym of Words.csproj.CoreCompileInputs.cache
+D:\c#\ЗАДАЧИ\2828. Check if a String Is an Acronym of Words\2828. Check if a String Is an Acronym of Words\obj\Debug\_2828.Check_if_a_String_Is_an_Acronym_of_Words.exe
+D:\c#\ЗАДАЧИ\2828. Check if a String Is an Acronym of Words\2828. Check if a String Is an Acronym of Words\obj\Debug\_2828.Check_if_a_String_Is_an_Acronym_of_Words.pdb
