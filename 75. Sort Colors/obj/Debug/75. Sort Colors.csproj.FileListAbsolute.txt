@@ -1,0 +1,7 @@
+D:\c#\ASP.NET LEARN\75. Sort Colors\75. Sort Colors\bin\Debug\_75.Sort_Colors.exe.config
+D:\c#\ASP.NET LEARN\75. Sort Colors\75. Sort Colors\bin\Debug\_75.Sort_Colors.exe
+D:\c#\ASP.NET LEARN\75. Sort Colors\75. Sort Colors\bin\Debug\_75.Sort_Colors.pdb
+D:\c#\ASP.NET LEARN\75. Sort Colors\75. Sort Colors\obj\Debug\75. Sort Colors.csproj.AssemblyReference.cache
+D:\c#\ASP.NET LEARN\75. Sort Colors\75. Sort Colors\obj\Debug\75. Sort Colors.csproj.CoreCompileInputs.cache
+D:\c#\ASP.NET LEARN\75. Sort Colors\75. Sort Colors\obj\Debug\_75.Sort_Colors.exe
+D:\c#\ASP.NET LEARN\75. Sort Colors\75. Sort Colors\obj\Debug\_75.Sort_Colors.pdb
